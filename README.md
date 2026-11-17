@@ -1,4 +1,4 @@
-## hey! This is Siyam Ahmed,also known as Al Mustasim.
+## Hey! This is Siyam Ahmed,also known as Al Mustasim.
 student.exe- under development
 ## CURRENTLY 
 -Learning the Foundamentals
